@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashutosh021
-- 👀 I’m interested in coding and game development
-- 🌱 I’m currently learning data structure using c and c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning data structure c++
 - 📫 How to reach me ashutosh.bca.2020@mitmeerut.ac.in
 
 <!---
