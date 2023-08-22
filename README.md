@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh021
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning data structure c++
+- 🌱 I’m currently learning data structure
 - 📫 How to reach me mail.ashutosh246@gmail.com
 
 <!---
