@@ -1,5 +1,5 @@
 # 💫 About Me:
-React Projects<br>Learning MERN Stack
+MCA @ KIET <br> MERN Stack Developer
 
 
 ## 🌐 Socials:
